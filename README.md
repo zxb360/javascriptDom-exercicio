@@ -1,2 +1,4 @@
 # javascriptDom5.2.1
-manipoulando Dom seletores
+manipulando Dom seletores
+<h4>Exercicios</h4>
+Tente manipular as cores backgound com querySelector.
